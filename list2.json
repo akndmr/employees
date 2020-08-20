@@ -10,7 +10,7 @@
   "first_name": "Rossie",
   "last_name": "Linnemann",
   "title": "Associate Professor",
-  "salary": 5304.2,
+  "salary": "$5304.2",
   "avatar": "https://robohash.org/velsedsunt.png?size=100x100&set=set1"
 }, {
   "id": 3,
@@ -24,7 +24,7 @@
   "first_name": "Zonnya",
   "last_name": "Amis",
   "title": "VP Quality Control",
-  "salary": 13993.6,
+  "salary": "$13993.6",
   "avatar": "https://robohash.org/reprehenderitestsunt.png?size=100x100&set=set1"
 }, {
   "id": 5,
@@ -59,7 +59,7 @@
   "first_name": "Neil",
   "last_name": "Lindhe",
   "title": "Human Resources Manager",
-  "salary": 8068.9,
+  "salary": "$8068.9",
   "avatar": "https://robohash.org/quiomnisatque.png?size=100x100&set=set1"
 }, {
   "id": 10,
@@ -101,7 +101,7 @@
   "first_name": "Lorrie",
   "last_name": "Cannicott",
   "title": "Financial Advisor",
-  "salary": 13284.7,
+  "salary": "$13284.7",
   "avatar": "https://robohash.org/possimusomnisofficiis.png?size=100x100&set=set1"
 }, {
   "id": 16,
@@ -136,6 +136,6 @@
   "first_name": "Ulrikaumeko",
   "last_name": "Minico",
   "title": "Geologist II",
-  "salary": 14212.3,
+  "salary": "$14212.3",
   "avatar": "https://robohash.org/quiavoluptasrepudiandae.png?size=100x100&set=set1"
 }]
